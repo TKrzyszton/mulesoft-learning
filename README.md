@@ -31,7 +31,7 @@ Documentation of my learning path towards **Integration Architect** with **MuleS
 
 ### Phase 1 — Fundamentals
 - [x] Lesson 1 — What is Integration? (N×(N-1) problem, Integration Broker)
-- [ ] Lesson 2 — Message as the Building Block of Integration
+- [x] Lesson 2 — Message as the Building Block of Integration
 - [ ] Lesson 3 — Point-to-Point vs Pub/Sub
 - [ ] Lesson 4 — Dead Letter Channel
 - [ ] Lesson 5 — Review + GitHub setup
